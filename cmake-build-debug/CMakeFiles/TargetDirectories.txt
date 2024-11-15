@@ -1,0 +1,3 @@
+/Users/trh/Work/corionis/ELS-MacOS-Launcher/cmake-build-debug/CMakeFiles/ELS-Navigator.dir
+/Users/trh/Work/corionis/ELS-MacOS-Launcher/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trh/Work/corionis/ELS-MacOS-Launcher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
