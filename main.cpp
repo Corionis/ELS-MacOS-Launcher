@@ -127,6 +127,8 @@ int main(int argc, char *argv[]) {
     if (isLogging)
         sz = sz - 1; // --launcher-log is for the launcher only and skipped for the Navigator
     char *arguments[sz];
+    if (isLogging)
+        log << "siz: " << sz << std::endl;
     int index = 0;
 
     // argv[0]
@@ -166,6 +168,8 @@ int main(int argc, char *argv[]) {
     std::string complete;
     for (int i = 0; i < sz; ++i)
     {
+        if (isLogging)
+            log << "Arg " << i << ": " << arguments[i] << std::endl;
         complete += arguments[i];
         complete += " ";
     }
