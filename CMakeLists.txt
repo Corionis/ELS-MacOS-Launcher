@@ -17,6 +17,6 @@ set_target_properties(ELS-Navigator PROPERTIES
         MACOSX_BUNDLE_GUI_IDENTIFIER "ELS-Navigator"
         MACOSX_BUNDLE_ICON_FILE els-logo-98px.icns
         MACOSX_BUNDLE_INFO_STRING "By Corionis"
-        MACOSX_BUNDLE_LONG_VERSION_STRING "Version 4.0.0, 15 November 2024"
-        MACOSX_BUNDLE_SHORT_VERSION_STRING "Version 4.0.0, 15 November 2024"
+        MACOSX_BUNDLE_LONG_VERSION_STRING "Version 4.0.0, 19 November 2024"
+        MACOSX_BUNDLE_SHORT_VERSION_STRING "Version 4.0.0, 19 November 2024"
 )
